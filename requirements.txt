@@ -2,3 +2,4 @@
 requests
 # Or you need not a pip package, @'...' specifies git branch
 git+https://github.com/Kylmakalle/pyTelegramBotAPI.git@feature-BotAPIV3
+Flask
